@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ofer Gavrilov</h1>
+<h1 align="center">Hi 👋, I'm Ofer Gavriel</h1>
 <h3 align="center">I'm a Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on clone of monday [My Day](https://monday-8oy3.onrender.com/)
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ofergavrilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofergavrilov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ofergavriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofergavrilov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
