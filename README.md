@@ -7,7 +7,7 @@
 
 - 📫 You can reach me at **ofergavri@gmail.com**
 
-- ⚡ Fun fact **I love meditation, running, and drawing**
+- ⚡ Fun fact **I love travel and running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
