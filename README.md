@@ -1,5 +1,6 @@
+<p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ofer+Gavriel+Full+Stack+Developer" alt="Typing SVG" /></a>
-
+</p>
 - 🔭 I’m currently working on clone of monday [My Day](https://monday-8oy3.onrender.com/)
 
 - 💬 Ask me about **React, Angular, Node.js, scss**
