@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ofer Gavriel</h1>
-<h3 align="center">I'm a Full-Stack Developer</h3>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ofer+Gavriel+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on clone of monday [My Day](https://monday-8oy3.onrender.com/)
 
