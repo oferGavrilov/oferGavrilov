@@ -3,7 +3,7 @@
 </p>
 - 🔭 I’m currently working on clone of monday [My Day](https://monday-8oy3.onrender.com/)
 
-- This is my Portfolio [Portfolio Link](https://main.dnnxag6br6zdw.amplifyapp.com/)
+- This is my Portfolio [Portfolio Link](https://ofergavriel.vercel.app/)
 
 - 💬 Ask me about **React, Angular, Node.js, scss**
 
