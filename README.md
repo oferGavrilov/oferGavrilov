@@ -1,7 +1,8 @@
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ofer+Gavriel+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
-- 🔭 I’m currently working on a real open-source ecommerce web shop named "Fafos", take a look here [Fafos](https://fafos-webshop.vercel.app/)
+- 🔭 I’m currently working on a real open-source ecommerce web shop named "Fafos",
+       take a look here [Fafos](https://fafos-webshop.vercel.app/) [Fafos](https://fafos-webshop.vercel.app/)
 
 - This is my Portfolio [Portfolio Link](https://ofergavriel.vercel.app/)
 
