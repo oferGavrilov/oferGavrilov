@@ -1,5 +1,7 @@
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ofer+Gavriel+Full+Stack+Developer" alt="Typing SVG" /></a>
+       
+![](https://komarev.com/ghpvc/?username=ofergavrilov&color=green)
 </p>
 - 🔭 I’m currently working on a real open-source ecommerce web shop,
        take a look here [Fafos](https://fafos-webshop.vercel.app/)
@@ -18,96 +20,31 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                  alt="javascript" width="40" height="40" />
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                  alt="typescript" width="40" height="40" />
-      </a>
-      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" />
-      </a>
-      <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
-                  src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
-                  height="40" />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                  alt="react" width="40" height="40" />
-      </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="Next" width="40" height="40" />
-      </a>
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-                  alt="redux" width="40" height="40" />
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                  alt="html5" width="40" height="40" />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                  alt="css3" width="40" height="40" />
-      </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-                  alt="sass" width="40" height="40" />
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-                  height="40" />
-      </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                  alt="nodejs" width="40" height="40" />
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                  alt="express" width="40" height="40" />
-      </a>
-      <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40" />
-      </a>
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40"
-                  height="40" />
-      </a>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
-                  src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="40" height="40" />
-      </a>
-      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
-                  width="40" height="40" />
-      </a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
-                  height="40" />
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                  alt="mongodb" width="40" height="40" />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                  alt="mysql" width="40" height="40" />
-      </a>
-      <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.svgrepo.com/show/354575/xampp.svg" alt="jest" width="40" height="40" />
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-      </a>
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
-                  height="40" />
-      </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-                  src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                  height="40" />
-      </a>
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescript.com/)
+[![My Skills](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://www.html.com/)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://www.css.com/)
+[![My Skills](https://skillicons.dev/icons?i=sass&theme=light)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwind-css.com/)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://www.reactjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=angular&theme=dark)](https://www.angular.org/)
+[![My Skills](https://skillicons.dev/icons?i=next&theme=dark)](https://www.nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=redux&theme=light)](https://www.redux.org/)
+[![My Skills](https://skillicons.dev/icons?i=rxjs&theme=dark)](https://www.rxjs.org/)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://www.nodejs.org/)
+[![My Skills](https://skillicons.dev/icons?i=express&theme=dark)](https://www.express.org/)
+[![My Skills](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://www.nestjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=django&theme=dark)](https://www.django.org/)
+[![My Skills](https://skillicons.dev/icons?i=fastapi&theme=dark)](https://www.fastapi.org/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=postgresql&theme=dark)](https://www.postgresql.com/)
+[![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://www.firebase.com/)
+[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
+[![My Skills](https://skillicons.dev/icons?i=jest&theme=light)](https://www.jest.com/)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofergavrilov&theme=github_dark&layout=compact&hide_border=true" /></a> 
