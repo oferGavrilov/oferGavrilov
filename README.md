@@ -45,6 +45,6 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase&theme=dark)](https://www.firebase.com/)
 [![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
 [![My Skills](https://skillicons.dev/icons?i=jest&theme=light)](https://www.jest.com/)
-[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://hub.docker.com/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofergavrilov&theme=github_dark&layout=compact&hide_border=true" /></a> 
