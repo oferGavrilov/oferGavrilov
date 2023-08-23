@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=ofergavrilov&color=green)
 </p>
 
-- 🔭 I’m currently working on a real open-source ecommerce web shop, take a look here [Fafos](https://fafos-webshop.vercel.app/)
+- 🔭 I’m currently working on a Real-Time Chat Application, take a look here [Rolling](https://rolling-chat-messenger.vercel.app)
 
 - This is my Portfolio [Portfolio Link](https://ofergavriel.vercel.app/)
 
