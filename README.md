@@ -4,9 +4,9 @@
 ![](https://komarev.com/ghpvc/?username=ofergavrilov&color=green)
 </p>
 
-- 🔭 I’m currently working on a Real-Time Chat Application, take a look here [Rolling](https://rolling-chat-messenger.vercel.app)
+- 🔭 I’m currently working on a Real-Time Chat Application, take a look here <a href="https://www.rolling-chat.com" target="_blank">Rolling</a>
 
-- This is my Portfolio [Portfolio Link](https://ofergavriel.vercel.app/)
+- This is my Portfolio <a href="https://ofergavriel.vercel.app" target="_blank">Portfolio Link</a>
 
 - 💬 Ask me about **React, Angular, Node.js, scss**
 
