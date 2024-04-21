@@ -42,7 +42,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=dark)](https://www.postgresql.com/)
-[![My Skills](https://skillicons.dev/icons?i=cassandra&theme=light)](https://cassandra.apache.org/_/index.html)
+[![My Skills](https://skillicons.dev/icons?i=redis&theme=dark)](https://redis.io/)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://aws.amazon.com/)
 [![My Skills](https://skillicons.dev/icons?i=azure&theme=dark)](https://aws.amazon.com/)
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq&theme=dark)](https://www.rabbitmq.com/)
