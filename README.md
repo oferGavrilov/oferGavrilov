@@ -1,7 +1,7 @@
 <p align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ofer+Gavriel+Full+Stack+Developer" alt="Typing SVG" /></a>
        
-![](https://komarev.com/ghpvc/?username=ofergavrilov&color=green)
+![](https://komarev.com/ghpvc/?username=ofergavriel&color=green)
 </p>
 
 - 🔭 I’m currently working on a Real-Time Chat Application, take a look here <a href="https://www.rolling-chat.com" target="_blank">Rolling</a>
